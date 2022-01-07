@@ -1,26 +1,24 @@
-# X-Ray Pneumonia Project
+# Diabetic Retinopathy Project
 
 ## Result after Deploy at Heroku
-[Link App Deployment at Heroku](https://cbir-project-for-xray-261-235.herokuapp.com/)
+[Link App Deployment at Heroku](https://cbirtkc1.herokuapp.com/)
 ![Capture Ret](https://user-images.githubusercontent.com/48962405/144776249-69432ee9-31f8-445a-85d0-84e22eab8c17.PNG)
 
-## Deskripsi Dataset 
-Dalam penyusunan project ini menggunakan dataset dari [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), yang terdiri dari
-1. Normal (healthy)
-2. Pneumonia
+# Tugas_Praktikum_023_043
+- Autors
+1. Muhammad Marlianur (201810370311023)
+2. Ernowo Gordon Unus (201810370311043)
+# Klasifikasi Diabetic Retinopaty Menggunakan CNN
 
-## Paper referensi
-Aman Dureja & Payal Pahwa (2020) Medical image retrieval for detecting pneumonia using binary classification with deep convolutional neural networks, Journal of Information and Optimization Sciences, 41:6, 1419-1431, DOI: 10.1080/02522667.2020.1809096
-URL : https://www.tandfonline.com/doi/abs/10.1080/02522667.2020.1809096
+# Overview Jurnal Referensi
+1. Jurnal Referensi
 
-## Contributor
-1. Ulfah Nur Oktaviana (201810370311261)
-2. Tiara Intana Sari (201810370311235)
+- Jurnal referensi pada projek ini berjudul Deep Learning untuk Klasifikasi Diabetic Retinopathy menggunakan Model EfficientNet
+- Link Jurnal : http://dx.doi.org/10.26760/elkomika.v8i3.693
+- Diabetic Retinopathy merupakan penyakit yang dapat mengakibatkan kebutaan mata yang disebabkan oleh adanya komplikasi penyakit diabetes melitus. Oleh karena itu mendeteksi secara dini sangat diperlukan untuk mencegah bertambah parahnya penyakit tersebut. Penelitian ini merancang sebuah sistem yang dapat mendeteksi Diabetic Retinopathy berbasis Deep Learning dengan menggunakan Convolutional Neural Network (CNN). EfficientNet model digunakan untuk melatih dataset yang telah di pre-prosesing sebelumnya. Hasil dari penelitian tersebut didapatkan akurasi sebesar 79.8% yang dapat mengklasifikasi 5 level penyakit Diabetic Retinopathy. 
 
-## Acknowledgments
+2. Dataset yang digunakan pada Jurnal
 
-Inspiration, code snippets, etc.
-* [CNN Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/examples/3_NeuralNetworks/convolutional_network.py)
-* [DenseNet Documentation](https://keras.io/api/applications/densenet/)
-* [Keras Documentation of Transfer Learning Model](https://keras.io/api/applications/)
-* [Data AUgmentation Using Tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
+- Data yang digunakan pada referensi tersebut merupakan data dari kaggle tentang Diabetic Retinopaty
+https://www.kaggle.com/c/aptos2019-blindness-detection/data
+

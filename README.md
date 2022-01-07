@@ -2,7 +2,10 @@
 
 ## Result after Deploy at Heroku
 [Link App Deployment at Heroku](https://cbirtkc1.herokuapp.com/)
-![Capture Ret](https://user-images.githubusercontent.com/48962405/144776249-69432ee9-31f8-445a-85d0-84e22eab8c17.PNG)
+![Uploading Screenshot (1595).png…]![Screenshot (1596)](https://user-images.githubusercontent.com/92086028/148589527-f3a6979d-a6ee-4520-8b24-5aeacf89b36f.png)
+![Screenshot (1598)](https://user-images.githubusercontent.com/92086028/148589538-c1d47123-3ced-42be-a793-53a5ed9c2af3.png)
+()
+
 
 # Tugas_Praktikum_023_043
 - Autors

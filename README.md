@@ -11,7 +11,7 @@
 - Autors
 1. Muhammad Marlianur (201810370311023)
 2. Ernowo Gordon Unus (201810370311043)
-# Klasifikasi Diabetic Retinopaty Menggunakan CNN
+# Klasifikasi Diabetic Retinopaty Menggunakan MobileNet
 
 # Overview Jurnal Referensi
 1. Jurnal Referensi

@@ -35,9 +35,9 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 
 ## Result after Deploy at Heroku
-- LINK HEROKU : [Link App Deployment at Heroku]
+- LINK HEROKU : (https://cbirtkc1.herokuapp.com/)
 
-(https://cbirtkc1.herokuapp.com/)
+
 ![Uploading Screenshot (1595).png…]![Screenshot (1596)](https://user-images.githubusercontent.com/92086028/148589527-f3a6979d-a6ee-4520-8b24-5aeacf89b36f.png)
 ![Screenshot (1598)](https://user-images.githubusercontent.com/92086028/148589538-c1d47123-3ced-42be-a793-53a5ed9c2af3.png)
 ()

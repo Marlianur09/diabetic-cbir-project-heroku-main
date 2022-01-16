@@ -3,7 +3,7 @@
 - Autors
 1. Muhammad Marlianur (201810370311023)
 2. Ernowo Gordon Unus (201810370311043)
-# Klasifikasi Diabetic Retinopaty Menggunakan MobileNet
+# Image Retrieval Diabetic Retinopaty Menggunakan MobileNet
 
 # Overview Jurnal Referensi
 1. Jurnal Referensi
@@ -17,6 +17,8 @@
 - Data yang digunakan pada referensi tersebut merupakan data dari kaggle tentang Diabetic Retinopaty
 https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
+3. Hasil Pembuatan Paper Project
+- Link Drive Paper: https://drive.google.com/file/d/1nz7wOFJRf7pa4G6wDnvs9MH1dlqnbnBV/view?usp=sharing
 
 
 
@@ -37,11 +39,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 ## Result after Deploy at Heroku
 - LINK HEROKU : (https://cbirtkc1.herokuapp.com/)
 
+- Tampilan Hasil Deploy Heroku
 
-![Uploading Screenshot (1595).png…]![Screenshot (1596)](https://user-images.githubusercontent.com/92086028/148589527-f3a6979d-a6ee-4520-8b24-5aeacf89b36f.png)
-![Screenshot (1598)](https://user-images.githubusercontent.com/92086028/148589538-c1d47123-3ced-42be-a793-53a5ed9c2af3.png)
-()
-
-
-
-
+![photo_2022-01-10_21-23-18](https://user-images.githubusercontent.com/92302616/149651391-db4f192f-1e92-4c83-aaaf-18fce0c45284.jpg)
+![photo_2022-01-10_21-23-50](https://user-images.githubusercontent.com/92302616/149651394-cc3444c6-fb4d-4c18-aaba-406ab4efb83a.jpg)

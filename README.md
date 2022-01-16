@@ -1,5 +1,5 @@
 # Diabetic Retinopathy Project
-# Tugas_Praktikum_023_043
+# Tugas_Besar_023_043
 - Autors
 1. Muhammad Marlianur (201810370311023)
 2. Ernowo Gordon Unus (201810370311043)

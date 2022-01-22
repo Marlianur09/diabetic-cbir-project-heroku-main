@@ -38,6 +38,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 ## Result after Deploy at Heroku
 - LINK HEROKU : (https://cbirtkc1.herokuapp.com/)
+- - Link Program Google Collab: Ada di atas dengan nama (Tugas_Besar_Machine_Learning.ipynb)
 
 - Tampilan Hasil Deploy Heroku
 
